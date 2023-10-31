@@ -1,0 +1,33 @@
+body{
+    /* display: flex;
+    justify-content: center; */
+    color: khaki;
+    text-align: center;
+    font-family: Inter,X-LocaleSpecific,sans-serif;;
+    background-color: azure;
+}
+
+.browsers-container{
+    /* border: 1px solid red; */
+    height: 500px;
+
+}
+
+.browsers{
+    margin: 35vh auto;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.chrome{
+    padding: 20px 0 0 0;
+}
+.firefox{
+    padding: 20px 0 0 0;
+}
+.explorer{
+    padding: 20px 0 0 0;
+}
+.safari{
+    padding: 20px 0 0 0;
+}
